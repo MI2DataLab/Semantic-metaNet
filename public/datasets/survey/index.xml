@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Semantic Feature Net</title>
+    <link>/datasets/survey/</link>
+    <description>Recent content on Semantic Feature Net</description>
+    <image>
+      <title>Semantic Feature Net</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 May 2023 14:34:05 +0200</lastBuildDate><atom:link href="/datasets/survey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cardiovascular Study</title>
+      <link>/datasets/survey/1/</link>
+      <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
+      
+      <guid>/datasets/survey/1/</guid>
+      <description>Data from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).</description>
+    </item>
+    
+    <item>
+      <title>Diabetes Health Indicators </title>
+      <link>/datasets/survey/3/</link>
+      <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
+      
+      <guid>/datasets/survey/3/</guid>
+      <description>This dataset 253,680 survey responses from cleaned BRFSS 2015. The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. </description>
+    </item>
+    
+    <item>
+      <title>Heart Disease Indicators </title>
+      <link>/datasets/survey/7/</link>
+      <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
+      
+      <guid>/datasets/survey/7/</guid>
+      <description>This dataset 253,680 survey responses from cleaned BRFSS 2015. The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. </description>
+    </item>
+    
+    <item>
+      <title>Stroke Prediction</title>
+      <link>/datasets/survey/6/</link>
+      <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
+      
+      <guid>/datasets/survey/6/</guid>
+      <description>This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.</description>
+    </item>
+    
+    <item>
+      <title>Cardiovascular Study</title>
+      <link>/datasets/survey/2/</link>
+      <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
+      
+      <guid>/datasets/survey/2/</guid>
+      <description>Data from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).</description>
+    </item>
+    
+    <item>
+      <title>Diabetes Health Indicators </title>
+      <link>/datasets/survey/4/</link>
+      <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
+      
+      <guid>/datasets/survey/4/</guid>
+      <description>This dataset 253,680 survey responses from cleaned BRFSS 2015. The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. </description>
+    </item>
+    
+    <item>
+      <title>Heart Disease Indicators </title>
+      <link>/datasets/survey/8/</link>
+      <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
+      
+      <guid>/datasets/survey/8/</guid>
+      <description>This dataset 253,680 survey responses from cleaned BRFSS 2015. The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. </description>
+    </item>
+    
+  </channel>
+</rss>
