@@ -1,1 +1,1 @@
-# Semantic-metaNet
+# SeFNET: Semantic Feature Net
