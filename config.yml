@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://sefnet.mi2.ai/"
 languageCode: en-us
 title: "Semantic Feature Net"
 theme: PaperMod
