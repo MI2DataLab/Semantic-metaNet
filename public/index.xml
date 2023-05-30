@@ -2,229 +2,229 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Semantic Feature Net</title>
-    <link>/</link>
+    <link>https://sefnet.mi2.ai/</link>
     <description>Recent content on Semantic Feature Net</description>
     <image>
       <title>Semantic Feature Net</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://sefnet.mi2.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sefnet.mi2.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2023 14:34:05 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 14:34:05 +0200</lastBuildDate><atom:link href="https://sefnet.mi2.ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breast Cancer</title>
-      <link>/datasets/ehr/14/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/14/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/14/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/14/</guid>
       <description>This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature. This data set includes 201 instances of one class and 85 instances of another class. The instances are described by 9 attributes, some of which are linear and some are nominal.</description>
     </item>
     
     <item>
       <title>Cardiovascular Study</title>
-      <link>/datasets/survey/1/</link>
+      <link>https://sefnet.mi2.ai/datasets/survey/1/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/survey/1/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/survey/1/</guid>
       <description>Data from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).</description>
     </item>
     
     <item>
       <title>Diabetes 130 US</title>
-      <link>/datasets/ehr/4/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/4/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/4/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/4/</guid>
       <description>This dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks.</description>
     </item>
     
     <item>
       <title>Diabetes Health Indicators </title>
-      <link>/datasets/survey/3/</link>
+      <link>https://sefnet.mi2.ai/datasets/survey/3/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/survey/3/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/survey/3/</guid>
       <description>This dataset 253,680 survey responses from cleaned BRFSS 2015. The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. </description>
     </item>
     
     <item>
       <title>Diagnosis of COVID-19 (Subset)</title>
-      <link>/datasets/ehr/2/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/2/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/2/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/2/</guid>
       <description>This dataset contains anonymized data from patients seen at the Hospital Israelita Albert Einstein, at São Paulo, Brazil, and who had  samples collected to perform the SARS-CoV-2 RT-PCR and additional laboratory tests during a visit to the hospital. All data were anonymized following the best international practices and recommendations. All clinical data were standardized to have a mean of zero and a unit standard deviation. </description>
     </item>
     
     <item>
       <title>GOSSIS-1-eICU Model Ready</title>
-      <link>/datasets/ehr/5/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/5/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/5/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/5/</guid>
       <description>This project contains the USA subset of patients derived from the eICU Collaborative Research Database (eICU-CRD). The dataset, which we call GOSSIS-1-eICU, consists of 131,051 unique patients from 204 hospitals from ICU admissions discharged in 2014-15.</description>
     </item>
     
     <item>
       <title>HCV data</title>
-      <link>/datasets/ehr/9/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/9/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/9/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/9/</guid>
       <description>This dataset contains laboratory values of blood donors and Hepatitis C patients and demographic values like age.</description>
     </item>
     
     <item>
       <title>Heart Disease (Comprehensive)</title>
-      <link>/datasets/ehr/8/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/8/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/8/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/8/</guid>
       <description>This dataset was curated by combining five datasets  over 11 common features which makes it the largest heart disease dataset available for research purposes. The five datasets used for its curation are Cleveland: 303 Hungarian: 294 Switzerland: 123 Long Beach VA: 200 Stalog (Heart) Data Set: 270.</description>
     </item>
     
     <item>
       <title>Heart Disease Indicators </title>
-      <link>/datasets/survey/7/</link>
+      <link>https://sefnet.mi2.ai/datasets/survey/7/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/survey/7/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/survey/7/</guid>
       <description>This dataset 253,680 survey responses from cleaned BRFSS 2015. The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. </description>
     </item>
     
     <item>
       <title>Hepatitis</title>
-      <link>/datasets/ehr/10/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/10/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/10/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/10/</guid>
       <description>Data for Hepatitis symptoms and results in various people of both the genders of various age groups. Hepatitis symptoms include fatigue, anorexia, big liver, etc.</description>
     </item>
     
     <item>
       <title>HiRID Preprocessed</title>
-      <link>/datasets/ehr/11/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/11/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/11/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/11/</guid>
       <description>HiRID is a freely accessible critical care dataset containing data relating to almost 34 thousand patient admissions to the Department of Intensive Care Medicine of the Bern University Hospital, Switzerland (ICU), an interdisciplinary 60-bed unit. admitting &amp;gt;6,500 patients per year.</description>
     </item>
     
     <item>
       <title>ILPD</title>
-      <link>/datasets/ehr/13/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/13/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/13/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/13/</guid>
       <description>This dataset contains 416 liver patient records and 167 non liver patient records.The data set was collected from north east of Andhra Pradesh, India. Selector is a class label used to divide into groups(liver patient or not). This data set contains 441 male patient records and 142 female patient records.  </description>
     </item>
     
     <item>
       <title>metaMIMIC</title>
-      <link>/datasets/ehr/15/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/15/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/15/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/15/</guid>
       <description>Dataset based on the MIMIC-IV database. It contains collection of 12 binary classification tasks of varying similarity.</description>
     </item>
     
     <item>
       <title>Pima Indians Diabetes</title>
-      <link>/datasets/ehr/12/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/12/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/12/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/12/</guid>
       <description>This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.</description>
     </item>
     
     <item>
       <title>Stroke Prediction</title>
-      <link>/datasets/survey/6/</link>
+      <link>https://sefnet.mi2.ai/datasets/survey/6/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/survey/6/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/survey/6/</guid>
       <description>This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.</description>
     </item>
     
     <item>
       <title>Thyroid Disease</title>
-      <link>/datasets/ehr/16/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/16/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/16/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/16/</guid>
       <description>Thyroid disease records supplied by the Garavan Institute and J. Ross Quinlan, New South Wales Institute, Syndney, Australia. 1987.</description>
     </item>
     
     <item>
       <title>AKI</title>
-      <link>/datasets/ehr/1/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/1/</link>
       <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
       
-      <guid>/datasets/ehr/1/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/1/</guid>
       <description>None</description>
     </item>
     
     <item>
       <title>Cardiovascular Study</title>
-      <link>/datasets/survey/2/</link>
+      <link>https://sefnet.mi2.ai/datasets/survey/2/</link>
       <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
       
-      <guid>/datasets/survey/2/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/survey/2/</guid>
       <description>Data from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD).</description>
     </item>
     
     <item>
       <title>Diabetes Health Indicators </title>
-      <link>/datasets/survey/4/</link>
+      <link>https://sefnet.mi2.ai/datasets/survey/4/</link>
       <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
       
-      <guid>/datasets/survey/4/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/survey/4/</guid>
       <description>This dataset 253,680 survey responses from cleaned BRFSS 2015. The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. </description>
     </item>
     
     <item>
       <title>Diagnosis of COVID-19 (Subset)</title>
-      <link>/datasets/ehr/3/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/3/</link>
       <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
       
-      <guid>/datasets/ehr/3/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/3/</guid>
       <description>This dataset contains anonymized data from patients seen at the Hospital Israelita Albert Einstein, at São Paulo, Brazil, and who had  samples collected to perform the SARS-CoV-2 RT-PCR and additional laboratory tests during a visit to the hospital. All data were anonymized following the best international practices and recommendations. All clinical data were standardized to have a mean of zero and a unit standard deviation. </description>
     </item>
     
     <item>
       <title>GOSSIS-1-eICU-Model-Ready</title>
-      <link>/datasets/ehr/6/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/6/</link>
       <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
       
-      <guid>/datasets/ehr/6/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/6/</guid>
       <description>This project contains the USA subset of patients derived from the eICU Collaborative Research Database (eICU-CRD). The dataset, which we call GOSSIS-1-eICU, consists of 131,051 unique patients from 204 hospitals from ICU admissions discharged in 2014-15.</description>
     </item>
     
     <item>
       <title>Heart Disease Indicators </title>
-      <link>/datasets/survey/8/</link>
+      <link>https://sefnet.mi2.ai/datasets/survey/8/</link>
       <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
       
-      <guid>/datasets/survey/8/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/survey/8/</guid>
       <description>This dataset 253,680 survey responses from cleaned BRFSS 2015. The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. </description>
     </item>
     
     <item>
       <title>Thyroid Disease</title>
-      <link>/datasets/ehr/17/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/17/</link>
       <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
       
-      <guid>/datasets/ehr/17/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/17/</guid>
       <description>Thyroid disease records supplied by the Garavan Institute and J. Ross Quinlan, New South Wales Institute, Syndney, Australia. 1987.</description>
     </item>
     
     <item>
       <title>Upload</title>
-      <link>/upload/</link>
+      <link>https://sefnet.mi2.ai/upload/</link>
       <pubDate>Sat, 15 Apr 2023 13:30:01 +0200</pubDate>
       
-      <guid>/upload/</guid>
+      <guid>https://sefnet.mi2.ai/upload/</guid>
       <description>If you want to help us develop the platform, you can upload your dataset and/or annotations here: Name*:
 Email*:
 Annotations:

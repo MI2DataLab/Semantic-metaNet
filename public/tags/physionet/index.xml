@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PhysioNet on Semantic Feature Net</title>
-    <link>/tags/physionet/</link>
+    <link>https://sefnet.mi2.ai/tags/physionet/</link>
     <description>Recent content in PhysioNet on Semantic Feature Net</description>
     <image>
       <title>Semantic Feature Net</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://sefnet.mi2.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sefnet.mi2.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2023 14:34:05 +0200</lastBuildDate><atom:link href="/tags/physionet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 14:34:05 +0200</lastBuildDate><atom:link href="https://sefnet.mi2.ai/tags/physionet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GOSSIS-1-eICU Model Ready</title>
-      <link>/datasets/ehr/5/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/5/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/5/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/5/</guid>
       <description>This project contains the USA subset of patients derived from the eICU Collaborative Research Database (eICU-CRD). The dataset, which we call GOSSIS-1-eICU, consists of 131,051 unique patients from 204 hospitals from ICU admissions discharged in 2014-15.</description>
     </item>
     
     <item>
       <title>HiRID Preprocessed</title>
-      <link>/datasets/ehr/11/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/11/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/11/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/11/</guid>
       <description>HiRID is a freely accessible critical care dataset containing data relating to almost 34 thousand patient admissions to the Department of Intensive Care Medicine of the Bern University Hospital, Switzerland (ICU), an interdisciplinary 60-bed unit. admitting &amp;gt;6,500 patients per year.</description>
     </item>
     
     <item>
       <title>metaMIMIC</title>
-      <link>/datasets/ehr/15/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/15/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/15/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/15/</guid>
       <description>Dataset based on the MIMIC-IV database. It contains collection of 12 binary classification tasks of varying similarity.</description>
     </item>
     
     <item>
       <title>GOSSIS-1-eICU-Model-Ready</title>
-      <link>/datasets/ehr/6/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/6/</link>
       <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
       
-      <guid>/datasets/ehr/6/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/6/</guid>
       <description>This project contains the USA subset of patients derived from the eICU Collaborative Research Database (eICU-CRD). The dataset, which we call GOSSIS-1-eICU, consists of 131,051 unique patients from 204 hospitals from ICU admissions discharged in 2014-15.</description>
     </item>
     

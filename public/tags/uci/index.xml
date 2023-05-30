@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>UCI on Semantic Feature Net</title>
-    <link>/tags/uci/</link>
+    <link>https://sefnet.mi2.ai/tags/uci/</link>
     <description>Recent content in UCI on Semantic Feature Net</description>
     <image>
       <title>Semantic Feature Net</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://sefnet.mi2.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sefnet.mi2.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2023 14:34:05 +0200</lastBuildDate><atom:link href="/tags/uci/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 14:34:05 +0200</lastBuildDate><atom:link href="https://sefnet.mi2.ai/tags/uci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breast Cancer</title>
-      <link>/datasets/ehr/14/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/14/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/14/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/14/</guid>
       <description>This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature. This data set includes 201 instances of one class and 85 instances of another class. The instances are described by 9 attributes, some of which are linear and some are nominal.</description>
     </item>
     
     <item>
       <title>Diabetes 130 US</title>
-      <link>/datasets/ehr/4/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/4/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/4/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/4/</guid>
       <description>This dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks.</description>
     </item>
     
     <item>
       <title>HCV data</title>
-      <link>/datasets/ehr/9/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/9/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/9/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/9/</guid>
       <description>This dataset contains laboratory values of blood donors and Hepatitis C patients and demographic values like age.</description>
     </item>
     
     <item>
       <title>Hepatitis</title>
-      <link>/datasets/ehr/10/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/10/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/10/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/10/</guid>
       <description>Data for Hepatitis symptoms and results in various people of both the genders of various age groups. Hepatitis symptoms include fatigue, anorexia, big liver, etc.</description>
     </item>
     
     <item>
       <title>ILPD</title>
-      <link>/datasets/ehr/13/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/13/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/13/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/13/</guid>
       <description>This dataset contains 416 liver patient records and 167 non liver patient records.The data set was collected from north east of Andhra Pradesh, India. Selector is a class label used to divide into groups(liver patient or not). This data set contains 441 male patient records and 142 female patient records.  </description>
     </item>
     
     <item>
       <title>Thyroid Disease</title>
-      <link>/datasets/ehr/16/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/16/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/datasets/ehr/16/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/16/</guid>
       <description>Thyroid disease records supplied by the Garavan Institute and J. Ross Quinlan, New South Wales Institute, Syndney, Australia. 1987.</description>
     </item>
     
     <item>
       <title>Thyroid Disease</title>
-      <link>/datasets/ehr/17/</link>
+      <link>https://sefnet.mi2.ai/datasets/ehr/17/</link>
       <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
       
-      <guid>/datasets/ehr/17/</guid>
+      <guid>https://sefnet.mi2.ai/datasets/ehr/17/</guid>
       <description>Thyroid disease records supplied by the Garavan Institute and J. Ross Quinlan, New South Wales Institute, Syndney, Australia. 1987.</description>
     </item>
     

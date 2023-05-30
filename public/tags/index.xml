@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Semantic Feature Net</title>
-    <link>/tags/</link>
+    <link>https://sefnet.mi2.ai/tags/</link>
     <description>Recent content in Tags on Semantic Feature Net</description>
     <image>
       <title>Semantic Feature Net</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://sefnet.mi2.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sefnet.mi2.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2023 14:34:05 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 14:34:05 +0200</lastBuildDate><atom:link href="https://sefnet.mi2.ai/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kaggle</title>
-      <link>/tags/kaggle/</link>
+      <link>https://sefnet.mi2.ai/tags/kaggle/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/tags/kaggle/</guid>
+      <guid>https://sefnet.mi2.ai/tags/kaggle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenML</title>
-      <link>/tags/openml/</link>
+      <link>https://sefnet.mi2.ai/tags/openml/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/tags/openml/</guid>
+      <guid>https://sefnet.mi2.ai/tags/openml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhysioNet</title>
-      <link>/tags/physionet/</link>
+      <link>https://sefnet.mi2.ai/tags/physionet/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/tags/physionet/</guid>
+      <guid>https://sefnet.mi2.ai/tags/physionet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UCI</title>
-      <link>/tags/uci/</link>
+      <link>https://sefnet.mi2.ai/tags/uci/</link>
       <pubDate>Tue, 09 May 2023 14:34:05 +0200</pubDate>
       
-      <guid>/tags/uci/</guid>
+      <guid>https://sefnet.mi2.ai/tags/uci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper</title>
-      <link>/tags/paper/</link>
+      <link>https://sefnet.mi2.ai/tags/paper/</link>
       <pubDate>Thu, 27 Apr 2023 18:34:53 +0200</pubDate>
       
-      <guid>/tags/paper/</guid>
+      <guid>https://sefnet.mi2.ai/tags/paper/</guid>
       <description></description>
     </item>
     
