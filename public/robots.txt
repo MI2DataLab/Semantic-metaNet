@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://sefnet.mi2.ai/sitemap.xml
