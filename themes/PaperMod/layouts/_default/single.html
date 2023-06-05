@@ -42,16 +42,16 @@
 
   {{if eq .Section "datasets"}}
 
-    Downloads:&nbsp;&nbsp;<br/>
+    <br/>
     {{- if isset .Params "annotation_file"}}
     <button class="download-button">
-      <a href='/downloads/annotations/{{ .Param "annotation_file"}}' target="_blank" download='{{ .Param "annotation_file"}}'>Annotations</a>
+      <a href='/downloads/annotations/{{ .Param "annotation_file"}}' target="_blank" download='{{ .Param "annotation_file"}}'>Download annotations</a>
     </button>
     {{- end }}
 
     {{- if isset .Params "data_file"}}
     <button class="download-button">
-      <a href='/downloads/datasets/{{ .Param "data_file"}}' target="_blank" download='{{ .Param "data_file"}}'>Dataset</a>
+      <a href='/downloads/datasets/{{ .Param "data_file"}}' target="_blank" download='{{ .Param "data_file"}}'>Download dataset</a>
     </button>
     {{- end }}
 

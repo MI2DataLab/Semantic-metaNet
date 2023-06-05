@@ -24,9 +24,11 @@
       {{- partial "get_csv.html"}}
     </p>
     <h2>Annotated Terms</h2>
-    <p>To do: Visualization</p>
+    <div style="width: 100%;margin: auto;">
+    {{ $image := resources.Get "img/term_plain.png" }}
+    <img style="display: block;margin: auto;" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="Annotated terms visualization">
+    </div>
     <h2>Citation</h2>
-    <p>To do: Citation</p>
   </div>
 
   <footer class="post-footer">
