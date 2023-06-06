@@ -23,10 +23,11 @@
       Welcome to SeFNet: Semantic Feature Net, a website providing a comprehensive collection of medical datasets used in machine learning tasks. Each dataset has an associated set of term annotations from SNOMED-CT ontology. Most of the datasets are provided in .csv with their basic characteristics and sources.
       {{- partial "get_csv.html"}}
     </p>
-    <h2>Annotated Terms</h2>
+    <h2>Annotated Features</h2>
+    <p>Graphs below visualize the proximity of the annotated features. The heatmap shows the similarity between each pair of features. Their order corresponds to the clusters' belonging, illustrated on the scatter plot.</p>
     <div style="width: 100%;margin: auto;">
-    {{ $image := resources.Get "img/term_plain.png" }}
-    <img style="display: block;margin: auto;" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="Annotated terms visualization">
+    {{ $image := resources.Get "img/term_exploration_sefnet.png" }}
+    <img style="display: block;margin: auto;" src="{{ $image.RelPermalink }}" alt="Annotated terms visualization">
     </div>
     <h2>Citation</h2>
   </div>
