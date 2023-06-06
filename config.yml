@@ -1,6 +1,6 @@
 baseURL: "https://sefnet.mi2.ai/"
 languageCode: en-us
-title: "Semantic Feature Net"
+title: "Semantic Feature Net - Healthcare"
 theme: PaperMod
 paginate: 5
 
@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "SeFNet"
+  title: "SeFNet - Healthcare"
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -45,16 +45,15 @@ params:
 
   assets:
     # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    disableFingerprinting: true
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
 
   label:
-    text: "SeFNet"
-    icon: /apple-touch-icon.png
+    text: "SeFNet - Healthcare"
+    icon: "logo.png"
     iconHeight: 35
 
   # profile-mode
