@@ -24,27 +24,31 @@ public class AllTermsSimilarity {
 
     public static void main(String[] args) throws SLIB_Exception {
 
+        // this needs to be change accordingly to the available SNOMED-CT version
         String SNOMED_VERSION = "20220301";
         String SNOMED_DIR =  "../SnomedCT_USEditionRF2_PRODUCTION_" + SNOMED_VERSION + "T120000Z/Full/Terminology/";
         String SNOMED_CONCEPT = SNOMED_DIR + "sct2_Concept_Full_US1000124_" + SNOMED_VERSION + ".txt";
         String SNOMED_RELATIONSHIPS = SNOMED_DIR + "sct2_Relationship_Full_US1000124_" + SNOMED_VERSION + ".txt";
 
+        // configure ontology graph
         snomedctURI = factory.getURI("http://snomedct/");
         G g = new GraphMemory(snomedctURI);
-
         GDataConf conf = new GDataConf(GFormat.SNOMED_CT_RF2);
         conf.addParameter(GraphLoaderSnomedCT_RF2.ARG_CONCEPT_FILE, SNOMED_CONCEPT);
         conf.addParameter(GraphLoaderSnomedCT_RF2.ARG_RELATIONSHIP_FILE, SNOMED_RELATIONSHIPS);
 
+        // populate ontology graph
         GraphLoaderGeneric.populate(conf, g);
 
+        // define similarity
         engine = new SM_Engine(g);
         sim = new SMconf("SIM_PAIRWISE_DAG_NODE_FEATURE_TVERSKY_RATIO_MODEL");
         sim.addParam("alpha", 7.9);
         sim.addParam("beta", 3.7);
 
-        Table allTerms = Table.read().csv("../all_annotations.csv");
-        calcAllSims(allTerms, "all_similarities.csv");
+        // calculate similarity
+        Table allTerms = Table.read().csv("../annotations.csv");
+        calcAllSims(allTerms, "term_similarities.csv");
 
     }
 

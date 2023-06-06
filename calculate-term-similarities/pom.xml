@@ -19,7 +19,6 @@
             <artifactId>slib-sml</artifactId>
             <version>0.9.1</version>
         </dependency>
-
         <!-- https://mvnrepository.com/artifact/tech.tablesaw/tablesaw-core -->
         <dependency>
             <groupId>tech.tablesaw</groupId>

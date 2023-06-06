@@ -24,25 +24,29 @@ public class Dataset2DatasetSimilarity {
 
     public static void main(String[] args) throws SLIB_Exception {
 
+        // this needs to be change accordingly to the available SNOMED-CT version
         String SNOMED_VERSION = "20220301";
         String SNOMED_DIR =  "../SnomedCT_USEditionRF2_PRODUCTION_" + SNOMED_VERSION + "T120000Z/Full/Terminology/";
         String SNOMED_CONCEPT = SNOMED_DIR + "sct2_Concept_Full_US1000124_" + SNOMED_VERSION + ".txt";
         String SNOMED_RELATIONSHIPS = SNOMED_DIR + "sct2_Relationship_Full_US1000124_" + SNOMED_VERSION + ".txt";
 
+        // configure ontology graph
         snomedctURI = factory.getURI("http://snomedct/");
         G g = new GraphMemory(snomedctURI);
-
         GDataConf conf = new GDataConf(GFormat.SNOMED_CT_RF2);
         conf.addParameter(GraphLoaderSnomedCT_RF2.ARG_CONCEPT_FILE, SNOMED_CONCEPT);
         conf.addParameter(GraphLoaderSnomedCT_RF2.ARG_RELATIONSHIP_FILE, SNOMED_RELATIONSHIPS);
 
+        // populate ontology graph
         GraphLoaderGeneric.populate(conf, g);
 
+        // define similarity
         engine = new SM_Engine(g);
         sim = new SMconf("SIM_PAIRWISE_DAG_NODE_FEATURE_TVERSKY_RATIO_MODEL");
         sim.addParam("alpha", 7.9);
         sim.addParam("beta", 3.7);
 
+        // select appropriate datasets and calculate similarity
         Table ds1 = Table.read().csv("../annotations/1_annotation.csv");
         Table ds2 = Table.read().csv("../annotations/2_annotation.csv");
         calcSims(ds1, ds2, "ds1_ds2.csv");
@@ -75,7 +79,6 @@ public class Dataset2DatasetSimilarity {
         }
 
         for(int i=0;i<idxsB.size();++i){
-
             for (int j=0;j<idxsA.size();++j){
                 if (idxsB.get(i).equals("None") || idxsA.get(j).equals("None")){
                     sims[i][j] = 0;
