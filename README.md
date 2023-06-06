@@ -1,6 +1,6 @@
 # SeFNet: Bridging Tabular Datasets with Semantic Feature Nets
 
-This repository contains code and resources that can be used to reproduce the results presented in the "SeFNet: Bridging Tabular Datasets with Semantic Feature Nets".
+This repository contains code and resources that can be used to reproduce the results presented in the article "SeFNet: Bridging Tabular Datasets with Semantic Feature Nets".
 
 ## Reproducting results
 ### 0. Annotating datasets <br>
