@@ -4,13 +4,20 @@ This repository contains code and resources that can be used to reproduce the re
 
 ## Reproducting results
 ### 0. Annotating datasets <br>
-The annotation of datasets' features is a tedious process, so the annotations we made manually have been made available in the 'annotations' directory. Every annotation file is in .csv format and it consists of two columns: column_name (original feature name) and term_id (SNOMED-CT term id).
+The annotation of datasets' features is a tedious process, so the annotations we made manually have been made available in the `annotations` directory. Every annotation file is in .csv format and it consists of two columns: column_name (original feature name) and term_id (SNOMED-CT term id).
 
 ### 1. Calculating similarity between terms <br>
-bla bla bla
+Similarity of terms is callculated using 
 
 ### 2. Calculating DOSS matrix <br>
-bla bla bla 
+Before the DOSS matrix can be calculated, the necessary packages must be installed (`numpy` and `pandas`).
+```
+pip install -r requirements.txt
+```
+Now all that is required is to exectute the script
+```
+python DOSS.py
+```
 
 ## Repository structure
 ```
